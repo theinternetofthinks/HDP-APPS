@@ -4,15 +4,13 @@
 
 | Versión | Fecha | Enlace 
 | -- | -- | -- |
-| v1.0.3.4 | 21/07/2020 |  [v1.0.3.4](stable-apks-demo/hbp-beta.1.0.3.4.apk) |
-| Contenido 2-1 | Contenido 2-2 |  -- |
-| Contenido 3-1 | Contenido 3-2 |  -- |
+| **v1.0.3.4** | 21/07/2020 |  [Descargar](stable-apks-demo/dev/hbp-beta.1.0.3.4.apk) |
+| v1.0.3.3 | 17/07/2020 |  [Descargar](stable-apks-demo/dev/hbp-beta.1.0.3.3.apk) |
+| v1.0.3.2 | 13/07/2020 |  [Descargar](stable-apks-demo/dev/hbp-beta.1.0.3.2.apk) |
 
 > APPs Producción
 
 | Versión | Fecha | Enlace 
 | -- | -- | -- |
-| Contenido 1-1 | Contenido 1-2 |  -- |
-| Contenido 2-1 | Contenido 2-2 |  -- |
-| Contenido 3-1 | Contenido 3-2 |  -- |
+| -- | -- | -- |
 
