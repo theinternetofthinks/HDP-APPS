@@ -4,7 +4,7 @@
 
 | Versión | Fecha | Enlace |
 | :----: | :----: | :----: |
-| No hay registros | - | - |
+| N/A | N/A | N/A |
 
 > APPs Desarrollo
 
