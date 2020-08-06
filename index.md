@@ -1,6 +1,8 @@
 # Versiones más recientes de APP de Control HBP
 
-### NOTA IMPORTANTE: Cuando se hagan Demos o pruebas en la web de Producción (https://hdper.z6.web.core.windows.net/), usar la APP de Producción
+### NOTA IMPORTANTE: Cuando se hagan Demos o pruebas en las webs de Producción, usar la APP de Producción
+- Portal Clínica Producción: https://hdpweb.z6.web.core.windows.net/
+- Ente Regulador Producción: https://hdpweb.z6.web.core.windows.net/
     
 > APPs Producción
 
