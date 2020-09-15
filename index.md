@@ -8,11 +8,11 @@
 
 | Versión | Fecha | Enlace |
 | :----: | :----: | :----: |
-| **v1.0.3.6** | 30/07/2020 |  [Descargar](stable-apks-demo/prod/hbp-beta.1.0.3.6.apk) |
+| **v1.0.3.6.1** | 30/07/2020 |  [Descargar](stable-apks-demo/prod/hbp-beta.1.0.3.6.1.apk) |
 
 
 > APPs Desarrollo
 
 | Versión | Fecha | Enlace |
 | :----: | :----: | :----: |
-| **v1.0.3.6** | 30/07/2020 |  [Descargar](stable-apks-demo/dev/hbp-beta.1.0.3.6.apk) |
+| **v1.0.3.6.1** | 30/07/2020 |  [Descargar](stable-apks-demo/dev/hbp-beta.1.0.3.6.1.apk) |
